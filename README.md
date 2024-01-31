@@ -5,5 +5,5 @@ Help you generate boilerplate code for design patterns from basic definition lik
 
 ## Current State
 
-- [x] Visitor
-- [ ] Observer
+- [x] [Visitor](https://refactoring.guru/design-patterns/visitor)
+- [x] [Strategy](https://refactoring.guru/design-patterns/strategy)
